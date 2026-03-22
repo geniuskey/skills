@@ -11,7 +11,7 @@ Claude Code skills collection.
 ## Install
 
 ```bash
-npx skills add /path/to/skill
+npx skills add github.com/geniuskey/skills/aladin-openapi
 ```
 
 ## License
